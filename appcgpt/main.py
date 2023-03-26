@@ -3,7 +3,7 @@ import typer
 from rich import print
 from rich.table import Table
 
-api_key = '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'
+api_key = 'your api key'
 
 def main():
 
